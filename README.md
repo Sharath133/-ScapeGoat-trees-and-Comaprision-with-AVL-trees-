@@ -2,10 +2,6 @@
 Project Title - Implementation of ScapeGoat trees and Comaprision with AVL trees
 
 
-
-
-How to run :
-
 Run this on any IDE supporting c.
 
 The Program :
