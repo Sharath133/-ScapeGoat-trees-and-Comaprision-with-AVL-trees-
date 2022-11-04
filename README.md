@@ -1,11 +1,8 @@
-Group number- 29
-Project Title - Implementation of ScapeGoat trees and Comaprision with AVL trees
-Course Title -Data Structures and Algorithms.
 
-Group Members :-
-M.N.S.M.S.Vishnu 2020CSB1097
-Gopagoni Sreya 2020CSB1087
-D.V.S.Lasyanth 2020CSB1083
+Project Title - Implementation of ScapeGoat trees and Comaprision with AVL trees
+
+
+
 
 How to run :
 
